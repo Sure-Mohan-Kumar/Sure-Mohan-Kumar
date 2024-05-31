@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohan Kumar</h1>
 <h3 align="center">Exploring the World of AIML: Unraveling Opportunities in AI Conversational Agents</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sure-mohan-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="sure-mohan-kumar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sure-mohan-kumar" alt="sure-mohan-kumar" /></a> </p>
-
 - 🌱 I’m currently learning **GenAI,Deep learning and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sure-Mohan-Kumar?tab=repositories](https://github.com/Sure-Mohan-Kumar?tab=repositories)
